@@ -37,12 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: >-
-        Your digital journey starts here. With over 4 years of experience in
-        Shopify development, I specialize in creating functional, visually
-        appealing, and high-performing websites tailored to your unique needs.
-        Let's collaborate to bring your vision to life and achieve outstanding
-        results for your brand.
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
