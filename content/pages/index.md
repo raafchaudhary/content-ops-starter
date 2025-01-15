@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Transform Ideas into Reality with Expert Development
-      color: text-dark
-      type: TitleBlock
     subtitle: Innovative Solutions for Modern Businesses
     text: >
       Your digital journey starts here. With over **4 years of experience in
