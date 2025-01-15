@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Innovative Solutions for Modern Businesses
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Your digital journey starts here. With over **4 years of experience in
+      Shopify development**, I specialize in creating functional, visually
+      appealing, and high-performing websites tailored to your unique needs.
+      Let's collaborate to bring your vision to life and achieve outstanding
+      results for your brand.
     actions:
       - label: Get started
         altText: ''
