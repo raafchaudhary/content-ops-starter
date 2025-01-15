@@ -51,7 +51,7 @@ sections:
           - pr-16
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Transform Ideas into Reality with Expert Development
       color: text-dark
   - type: FeaturedItemsSection
     title:
