@@ -7,7 +7,7 @@ sections:
       text: Transform Ideas into Reality with Expert Development
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Innovative Solutions for Modern Businesses
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
