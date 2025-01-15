@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: THIS IS A BADGETransform Ideas into Reality with Expert Development
+      text: Transform Ideas into Reality with Expert Development
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
